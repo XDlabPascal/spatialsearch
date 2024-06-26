@@ -1,13 +1,16 @@
 {
   "embeddings": [
     {
-      "tensorName": "XDLab 2024 VivaTech",
+      "tensorName": "VOD Spatial Search",
       "tensorShape": [
         1000,
-        50
+        128
       ],
       "tensorPath": "https://raw.githubusercontent.com/XDlabPascal/Projector/main/tensors.tsv",
       "metadataPath": "https://raw.githubusercontent.com/XDlabPascal/Projector/main/exhibitors.tsv"
+      "sprite": {
+        "imagePath": "sprite.png",
+        "singleImageDim": [32, 32]
     }
   ]
 }
