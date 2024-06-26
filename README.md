@@ -1,3 +1,7 @@
+Sprite 1024x1024 pixels
+= 32x32
+
+
 ChatGPT JSON file
 
 {
