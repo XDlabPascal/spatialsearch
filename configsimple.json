@@ -5,6 +5,9 @@
       "tensorShape": [1000, 128],
       "tensorPath": "https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/tensors.tsv",
       "metadataPath": "https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/movies.tsv"
+        "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/sprite.png",
+        "singleImageDim": [32, 32]
     }
   ]
 }
