@@ -1,12 +1,10 @@
 {
   "embeddings": [
     {
-      "tensorName": "My Embeddings",
-      "tensorShape": [10024, 128],
+      "tensorName": "VOD Spatial Search",
+      "tensorShape": [1000, 128],
       "tensorPath": "https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/movies.tsv",
-
-      }
+      "metadataPath": "https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/movies.tsv"
     }
   ]
 }
