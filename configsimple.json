@@ -1,13 +1,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "VOD Search 10",
+      "tensorName": "VOD Search 11",
       "tensorShape": [100, 20],
       "tensorPath": "https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/tensors.tsv",
       "metadataPath": "https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/movies.tsv",
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/sprite.png",
-        "singleImageDim": [135, 180]
+        "singleImageDim": [180, 180]
       }
     }
   ]
