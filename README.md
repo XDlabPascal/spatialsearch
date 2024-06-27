@@ -1,8 +1,11 @@
+
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/config.json
 
+100 movies
 
-Sprite 1024x1024 pixels
-= 32x32
+Sprite 45x60 pixels
+
+
 
 
 ChatGPT JSON file
