@@ -7,7 +7,7 @@
       "metadataPath": "https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/movies.tsv",
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/sprite.png",
-        "singleImageDim": [45, 60]
+        "singleImageDim": [135, 180]
       }
     }
   ]
