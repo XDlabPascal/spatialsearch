@@ -1,3 +1,6 @@
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/XDlabPascal/spatialsearch/main/config.json
+
+
 Sprite 1024x1024 pixels
 = 32x32
 
